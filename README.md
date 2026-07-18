@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Rahul Singh
 
-<!--
-**rahul-singh-cse/rahul-singh-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Java Full Stack Developer
 
-Here are some ideas to get you started:
+🎓 B.Tech in Computer Science (2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about building scalable Java applications and REST APIs.
+
+### 🛠 Tech Stack
+
+- Java
+- Spring Boot
+- React
+- SQL
+- MySQL
+- REST APIs
+- Git
+- GitHub
+- HTML
+- CSS
+- JavaScript
+
+### 🌱 Currently Learning
+
+- Spring Security
+- JWT Authentication
+- Microservices
+
+### 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/rahul-singh-java
+
+⭐ Always learning, building and improving.
