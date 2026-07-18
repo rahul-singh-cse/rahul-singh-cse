@@ -2,7 +2,7 @@
 
 ## 💻 Java Full Stack Developer
 
-🎓 B.Tech in Computer Science (2026)
+🎓 B.Tech Graduate in Computer Science
 
 🚀 Passionate about building scalable Java applications and REST APIs.
 
