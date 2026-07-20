@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rahul Singh
+# Hi 👋 I'm Rahul Singh
 
 #💻 Java Backend Developer
 Spring Boot | REST APIs | SQL | React
