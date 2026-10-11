@@ -1,6 +1,6 @@
 # Hii 👋 I'm Rahul Singh
 
-#💻 Java Backend Developer
+#💻 Java Full Stack Developer
 Spring Boot | REST APIs | SQL | React
 
 🎓 B.Tech Graduate in Computer Science
